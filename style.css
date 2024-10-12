@@ -1,0 +1,17 @@
+/*CSS file for recipes*/
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+.headers {
+    font-size: 40px;
+    color: lightcoral;
+    background-color: yellow;
+    text-align: center;
+  }
+
+.text {
+    font-size: 25px;
+    color: black;
+  }
